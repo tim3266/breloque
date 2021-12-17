@@ -11,7 +11,7 @@
 echo "test";
 echo "maj 2";
 ?>
-<img src="http://lorempixel.com/700/300/" />
+<img src="https://picsum.photos/200/300" />
 <a href="javascript:openAxeptioCookies()">
   Cliquez-ici pour modifier vos préférences en matière de cookies
 </a>
