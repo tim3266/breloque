@@ -10,7 +10,10 @@
 
 echo "test";
 echo "maj 2";
-?>   
+?>
+<a href="javascript:openAxeptioCookies()">
+  Cliquez-ici pour modifier vos préférences en matière de cookies
+</a>   
 </body>
 </html>
 <script>
