@@ -17,7 +17,6 @@
     <link>https://www.maisonapart.com</link>
     </image>
     <atom:link href="https://www.maisonapart.com/rss" rel="self" type="application/rss+xml" />
-  </channel>
       <item>
       <title>Ouvrir sa façade avec une baie vitrée : 8 exemples inspirants</title>
       <description>Pour faire rentrer la lumière chez soi, ou créer une ouverture sur le jardin, installer des baies vitrées permet de transformer sa maison. Des travaux souvent lourds, qui impliquent de percer sa façade, mais qui font toute la différence. La preuve en images. </description>
@@ -178,4 +177,5 @@
       <guid isPermaLink="true">https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/ambiance-et-style/very-peri---12-idees-pour-adopter-la-couleur-de-l--13015.php</guid>
       <pubDate>Wed, 05 Jan 2022 14:55:01 +0100</pubDate>
         </item>
+      </channel>
   </rss>
