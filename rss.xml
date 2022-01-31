@@ -1,36 +1,181 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>Batiactu </title>
-<description>Batiactu, toute l'information des professionnels 
-        de la construction, l'actualité en continu, la newsletter quotidienne 
-        gratuite, les dossiers, l'annuaire de la construction (référencement gratuit 
-        possible), les appels d'offre, les nouveaux produits, les solutions techniques, 
-        les tableaux de bords.</description><!-- calss.rss /cap_batiactu/scripts/robot.php?type=auto--><copyright>Droits de reproduction et de diffusion réservés à batiactu</copyright>
-<link>http://www.batiactu.com</link>
-<language>fr</language>
-<lastBuildDate>Mon, 31 Jan 2022 11:37:02 +0100</lastBuildDate>
-<pubDate>Mon, 31 Jan 2022 11:37:02 +0100</pubDate>
-<docs>https://www.batiactu.com/flux-rss.php</docs>
-<image>
-<url>http://www.batiactu.com/images/batiactu.com.gif</url>
-<title>Batiactu </title>
-<link>http://www.batiactu.com</link>
-</image>
-<atom:link href="https://www.batiactu.com/rss/batiactu.rss" rel="self" type="application/rss+xml" /><item>
-<title>Des ventes en hausse de 22% pour Caterpillar en 2021</title>
-<description>RESULTATS. Le spécialiste des engins de chantier, Caterpillar, affiche des résultats en hausse pour l'année 2021. De bons résultats portés notamment par une forte demande des utilisateurs finaux. </description>
-<enclosure url="https://www.batiactu.com/images/grand/20120417_152956_img0602.jpg" length="10449" type="image/jpeg" />
-<link>https://www.batiactu.com/edito/ventes-hausse-22-caterpillar-2021-63445.php</link>
-<guid isPermaLink="true">https://www.batiactu.com/edito/ventes-hausse-22-caterpillar-2021-63445.php</guid>
-<pubDate>Fri, 28 Jan 2022 18:03:52 +0100</pubDate>
-</item>
-<item>
-<title>Les créations et radiations d'auto-entrepreneurs en hausse dans le BTP en 2021</title>
-<description>&lt;b&gt;ENTREPRENEURIAT.&lt;/b&gt; Le nombre d'auto-entrepreneurs a fortement augmenté dans tous les secteurs de l'économie française à la moitié de l'exercice 2021, de même que la part de chefs d'entreprises déclarant un chiffre d'affaires positif. Cette tendance se retrouve à l'échelle du BTP, où le nombre de radiations a toutefois lui aussi progressé.</description>
-<enclosure url="https://www.batiactu.com/images/grand/20201117_170915_illustration-administration-ordinateur.jpg" length="8212" type="image/jpeg" />
-<link>https://www.batiactu.com/edito/creations-et-radiations-auto-entrepreneurs-hausse-dans-63443.php</link>
-<guid isPermaLink="true">https://www.batiactu.com/edito/creations-et-radiations-auto-entrepreneurs-hausse-dans-63443.php</guid>
-<pubDate>Fri, 28 Jan 2022 17:47:13 +0100</pubDate>
-</item>
-</channel></rss>
+  <channel>
+    <title>Maison à Part</title>
+    <description>Batiactu, Découvrez des idées déco maison, d’aménagement maison avec Maison à Part :
+      chambre, salon, cuisine, salle de bain, extérieur avec reportages photos et fiches
+    </description>
+    <copyright>Droits de reproduction et de diffusion réservés à batiactu</copyright>
+    <link>https://www.maisonapart.com</link>'
+    <language>fr</language>
+    <lastBuildDate>Mon, 31 Jan 2022 11:36:13 +0100</lastBuildDate>
+    <pubDate>Mon, 31 Jan 2022 11:36:13 +0100</pubDate>
+    <docs>https://www.maisonapart.com/ciprss/atom</docs>
+    <image>
+    <url>https://www.maisonapart.com/sites/all/themes/map3/images/MAP_Header_02-small.png</url>
+    <title>Maison à Part logo</title>
+    <link>https://www.maisonapart.com</link>
+    </image>
+    <atom:link href="https://www.maisonapart.com/rss" rel="self" type="application/rss+xml" />
+  </channel>
+      <item>
+      <title>Ouvrir sa façade avec une baie vitrée : 8 exemples inspirants</title>
+      <description>Pour faire rentrer la lumière chez soi, ou créer une ouverture sur le jardin, installer des baies vitrées permet de transformer sa maison. Des travaux souvent lourds, qui impliquent de percer sa façade, mais qui font toute la différence. La preuve en images. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220128_161220_1-rue-ordener-11.jpg" length="49880"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/construire-renover/renovation-extension/ouvrir-sa-facade-avec-une-baie-vitree---8-exemples-13030.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/construire-renover/renovation-extension/ouvrir-sa-facade-avec-une-baie-vitree---8-exemples-13030.php</guid>
+      <pubDate>Fri, 28 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Accidents domestiques : conseils pour prévenir les chutes à domicile</title>
+      <description>Parmi les accidents de la vie courante, la chute est la première cause de mort accidentelle. Si personne n'est à l'abri, elle touche plus particulièrement les séniors et peut avoir de graves conséquences sur leur quotidien. Voici quelques conseils de prévention pour limiter le risque d'accident. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220127_160913_okistock-1299523618.jpg" length="38103"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/construire-renover/accessibilite-securite-domotique/accidents-domestiques---conseils-pour-prevenir-les-13029.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/construire-renover/accessibilite-securite-domotique/accidents-domestiques---conseils-pour-prevenir-les-13029.php</guid>
+      <pubDate>Thu, 27 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Revisité, ce duplex s'ouvre à la lumière et retrouve son cachet</title>
+      <description>Pour faire rentrer la lumière dans ce grand duplex, l'architecte d'intérieur n'a pas hésité à transformer de façon drastique l'appartement. Habilement restructuré, il profite désormais des rayons du soleil du matin et soir, et offre des espaces de vie aux volumes plus généreux. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220126_160540_1-manuellegautrand0083base.jpg" length="40997"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/construire-renover/renovation-extension/revisite-ce-duplex-s-ouvre-a-la-lumiere-et-retrouv-13027.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/construire-renover/renovation-extension/revisite-ce-duplex-s-ouvre-a-la-lumiere-et-retrouv-13027.php</guid>
+      <pubDate>Wed, 26 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Rénovée et modernisée, la Poste du Louvre rouvre ses portes</title>
+      <description>Le plus célèbre bureau de poste de France a rouvert ses portes au public, après des années de travaux. Cet édifice aux façades en pierre, marqué par le mouvement du classicisme, a été modernisé, et offre un nouveau lieu de vie au c&amp;oelig;ur de Paris.</description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220126_165644_20220124_153404_nicolas-grosmond-postedulouvre-uhd-00668.jpg" length="42707"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/immobilier-logement/architecture-patrimoine/renovee-et-modernisee-la-poste-du-louvre-rouvre-se-13028.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/immobilier-logement/architecture-patrimoine/renovee-et-modernisee-la-poste-du-louvre-rouvre-se-13028.php</guid>
+      <pubDate>Tue, 25 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>12 idées de déco cocooning pour un hiver douillet</title>
+      <description>Quoi de mieux qu'un intérieur douillet et chaleureux pour oublier la grisaille et le froid dehors ? Créer une atmosphère cosy qui donne envie de prendre du temps pour soi et de profiter d'un moment de calme est une tendance forte de l'hiver. Mode d'emploi en images. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20200109_180040_2-sostrene-grene.jpg" length="36745"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/ambiance-et-style/10-ambiances-cocooning-pour-un-hiver-douillet-12631.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/ambiance-et-style/10-ambiances-cocooning-pour-un-hiver-douillet-12631.php</guid>
+      <pubDate>Fri, 10 Jan 2020 15:05:18 +0100</pubDate>
+    </item>
+      <item>
+      <title>Une bibliothèque pour transformer son intérieur : 10 exemples bien pensés</title>
+      <description>Bien plus qu'un simple espace de rangement, une bibliothèque peut transformer une pièce, en aidant à structurer l'espace ou en lui donnant du caractère. La preuve en images avec ces exemples qui ont tout pour plaire. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220121_165320_2-archea-espaces-specifiques.jpg" length="44164"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/mobilier-rangement/une-bibliotheque-pour-transformer-son-interieur----13025.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/mobilier-rangement/une-bibliotheque-pour-transformer-son-interieur----13025.php</guid>
+      <pubDate>Fri, 21 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Immobilier : le nombre de prêts accordés a augmenté en 2021</title>
+      <description>L'année 2021 a enregistré une forte progression du nombre de prêts immobiliers accordés. Une récente étude de l'observatoire CSA/Crédit Logement montre que la demande s'est accrue l'an passé et que les taux sont restés bas. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220124_145213_20200512_193113_84516536-monkey-business-images.jpg" length="36233"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/immobilier-logement/acheter-louer-investir/immobilier---le-nombre-de-prets-accordes-a-augment-13026.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/immobilier-logement/acheter-louer-investir/immobilier---le-nombre-de-prets-accordes-a-augment-13026.php</guid>
+      <pubDate>Fri, 21 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Tendances cuisine 2022 : une cuisine toujours plus fonctionnelle </title>
+      <description>Quoi de neuf dans la cuisine en 2022 ? Aménagement, style, matériaux, couleurs... La cuisine s'adapte à nos nouvelles habitudes. Découvrez les tendances phares de l'année pour une cuisine toujours plus agréable à vivre !</description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220120_121128_1-cuisinesaviva-ania-bleufjor.jpg" length="39879"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/amenager-son-interieur/cuisine/tendances-cuisine-2022---une-cuisine-toujours-plus-13024.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/amenager-son-interieur/cuisine/tendances-cuisine-2022---une-cuisine-toujours-plus-13024.php</guid>
+      <pubDate>Thu, 20 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Cheminée et poêle à bois : 20 solutions pour stocker ses bûches</title>
+      <description>Garder du bois à portée de main près de sa cheminée ou de son poêle est essentiel. Voici 20 idées pour stocker ses bûches de manière esthétique et pratique à la fois.</description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20191220_165150_1-dixneuf-visuel-ambiance-sal.jpg" length="38913"  type="image/jpeg" />
+              <link>http://www.maisonapart.com/edito/construire-renover/confort-thermique/cheminee-et-stokage-bois---10-solutions-pour-des-b-11959.php</link>
+      <guid isPermaLink="true">http://www.maisonapart.com/edito/construire-renover/confort-thermique/cheminee-et-stokage-bois---10-solutions-pour-des-b-11959.php</guid>
+      <pubDate>Fri, 26 Jan 2018 11:20:12 +0100</pubDate>
+    </item>
+      <item>
+      <title>18 idées pour aménager l'espace sous l'escalier</title>
+      <description>Etroit, difficile d'accès, l'espace sous l'escalier est compliqué à aménager. Ces quelques mètres carrés peuvent pourtant être optimisés pour y créer des rangements, installer une bibliothèque, un coin bureau, ou une petite cuisine. Voici 18 suggestions pleines d'astuces.</description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220117_150423_castoramainspi-sous-escali.jpg" length="37782"  type="image/jpeg" />
+              <link>http://www.maisonapart.com/edito/amenager-decorer/idees-deco/dix-solutions-pour-amenager-l-espace-sous-l-escali-6455.php</link>
+      <guid isPermaLink="true">http://www.maisonapart.com/edito/amenager-decorer/idees-deco/dix-solutions-pour-amenager-l-espace-sous-l-escali-6455.php</guid>
+      <pubDate>Mon, 30 Jan 2012 11:19:56 +0100</pubDate>
+    </item>
+      <item>
+      <title>Rénover sa cheminée : 8 exemples pour s'inspirer </title>
+      <description>Qu'elle soit vétuste, démodée ou devenue trop gourmande en bois, votre cheminée a besoin d'être rénovée. Pour gagner en confort, ou moderniser votre intérieur, voici 8 avant/après très réussis pour faire le plein d'idées. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220114_163537_1-dsc6114.jpg" length="49722"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/construire-renover/energie-chauffage-climatisation/renover-sa-cheminee---8-exemples-pour-s-inspirer--13023.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/construire-renover/energie-chauffage-climatisation/renover-sa-cheminee---8-exemples-pour-s-inspirer--13023.php</guid>
+      <pubDate>Fri, 14 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>8 idées pour réchauffer sa terrasse en hiver</title>
+      <description>Il fait gris et froid dehors ? C'est le moment de se réchauffer autour d'un bon feu de cheminée... dans le jardin ! Ces braseros et autres foyers d'extérieur sont parfaits pour réchauffer l'atmosphère et créer une ambiance conviviale même en hiver. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20210129_105342_1-ethimoallapertomountainta.jpg" length="59127"  type="image/jpeg" />
+              <link>http://www.maisonapart.com/edito/amenagement-exterieur/terrasse/5-idees-pour-rechauffer-sa-terrasse-en-hiver-12336.php</link>
+      <guid isPermaLink="true">http://www.maisonapart.com/edito/amenagement-exterieur/terrasse/5-idees-pour-rechauffer-sa-terrasse-en-hiver-12336.php</guid>
+      <pubDate>Thu, 17 Jan 2019 10:11:51 +0100</pubDate>
+    </item>
+      <item>
+      <title>Une extension qui a plus d'un tour dans son sac</title>
+      <description>Pour pouvoir adapter leur maison le moment venu et vieillir chez eux le plus confortablement possible, les propriétaires de cette demeure ont fait réaliser une extension, dans laquelle ils ont aménagé un espace qu'ils pourront aisément transformer en chambre à coucher.  </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220112_142757_1-archibel03.212.jpg" length="48501"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/construire-renover/renovation-extension/une-extension-qui-a-plus-d-un-tour-dans-son-sac-13021.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/construire-renover/renovation-extension/une-extension-qui-a-plus-d-un-tour-dans-son-sac-13021.php</guid>
+      <pubDate>Wed, 12 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Rénover un meuble en bois : mode d'emploi</title>
+      <description>Qu'il s'agisse d'une chaise, d'une commode, d'une armoire ou d'une table de chevet, restaurer un meuble en bois implique de nombreuses étapes. Décaper, réparer, poncer, peindre ou teinter... Petit guide pratique pour réussir ces différentes étapes. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220111_164017_istock-1326689626.jpg" length="44283"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/bricolage-loisirs-creatifs/renover-un-meuble-en-bois---mode-d-emploi-13020.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/bricolage-loisirs-creatifs/renover-un-meuble-en-bois---mode-d-emploi-13020.php</guid>
+      <pubDate>Tue, 11 Jan 2022 09:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Tendance déco : la maison se met au vert !</title>
+      <description>Couleur nature par excellence, le vert s'impose cette année comme une tendance forte de la déco. Cette couleur lumineuse s'invite en effet dans toutes les pièces de la maison, où elle crée une atmosphère très apaisante. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220110_161546_4-simon-simonearcachoncanap.jpg" length="48708"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/ambiance-et-style/tendance-deco---la-maison-se-met-au-vert--13019.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/ambiance-et-style/tendance-deco---la-maison-se-met-au-vert--13019.php</guid>
+      <pubDate>Mon, 10 Jan 2022 13:55:02 +0100</pubDate>
+    </item>
+      <item>
+      <title>Patrimoine : 6 chantiers de restauration d'exception récompensés</title>
+      <description>Organisé chaque année, le concours des Rubans du patrimoine récompense les plus beaux et ambitieux chantiers de restauration patrimoniale aux quatre coins de la France. Le palmarès 2021 a été l'occasion de saluer le travail d'entreprises du bâtiment spécialisées dans le bâti ancien au travers de six prix. Diaporama.</description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220113_105716_20220110_175730_mesnil.jpg" length="49307"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/immobilier-logement/architecture-patrimoine/patrimoine---6-chantiers-de-restauration-d-excepti-13022.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/immobilier-logement/architecture-patrimoine/patrimoine---6-chantiers-de-restauration-d-excepti-13022.php</guid>
+      <pubDate>Mon, 10 Jan 2022 13:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Comment bien choisir ses volets ? </title>
+      <description>Choisir ses volets ne repose pas uniquement sur le seul critère esthétique. Il est primordial de s'attarder sur un ensemble de critères déterminants : occultation, sécurité, confort d'été et d'hiver... Maison à part vous aide à faire le bon choix. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220107_145810_istock-1268852791.jpg" length="51756"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/construire-renover/portes-fenetres/comment-bien-choisir-ses-volets---13018.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/construire-renover/portes-fenetres/comment-bien-choisir-ses-volets---13018.php</guid>
+      <pubDate>Fri, 07 Jan 2022 14:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Décloisonner son intérieur : 12 exemples réussis</title>
+      <description>Pour faire entrer plus de lumière, créer des pièces de vie plus spacieuses ou moderniser son logement... Décloisonner son intérieur a de nombreux avantages. Voici 12 exemples inspirants pour réussir son projet. </description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220106_124630_renovation-longere-par-un-a.jpg" length="43335"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/construire-renover/renovation-extension/decloisonner-son-interieur---12-exemples-reussis-13016.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/construire-renover/renovation-extension/decloisonner-son-interieur---12-exemples-reussis-13016.php</guid>
+      <pubDate>Thu, 06 Jan 2022 13:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Les chaudières au fioul interdites à compter du 1er juillet 2022</title>
+      <description>A partir du 1er juillet 2022, l'installation de nouvelles chaudières au fioul ne sera plus possible. Le gouvernement entend en effet limiter l'émission des gaz à effet de serre, instaurant des seuils à ne pas dépasser pour les appareils de chauffage. Des seuils qui excluent de facto  ces équipements.</description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220106_155028_thinkstockphotos-516360624.jpg" length="30682"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/construire-renover/energie-chauffage-climatisation/les-chaudieres-au-fioul-interdites-a-compter-du-1e-13017.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/construire-renover/energie-chauffage-climatisation/les-chaudieres-au-fioul-interdites-a-compter-du-1e-13017.php</guid>
+      <pubDate>Thu, 06 Jan 2022 12:55:01 +0100</pubDate>
+    </item>
+      <item>
+      <title>Very Peri : 12 idées pour adopter la couleur de l'année 2022</title>
+      <description>Un subtil mélange de bleu, rehaussé d'une pointe de rouge vivifiant. La couleur de l'année 2022 dévoilée par Pantone en décembre dernier se veut aussi dynamique que lumineuse. Voici quelques suggestions pour l'introduire dans sa déco.</description>
+                  <enclosure url="https://www.maisonapart.com/images/grand/20220105_123727_1-socoocessentielle-very-per.jpg" length="37664"  type="image/jpeg" />
+              <link>https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/ambiance-et-style/very-peri---12-idees-pour-adopter-la-couleur-de-l--13015.php</link>
+      <guid isPermaLink="true">https://www.maisonapart.com/edito/decorer-s-inspirer-s-equiper/ambiance-et-style/very-peri---12-idees-pour-adopter-la-couleur-de-l--13015.php</guid>
+      <pubDate>Wed, 05 Jan 2022 14:55:01 +0100</pubDate>
+        </item>
+  </rss>
