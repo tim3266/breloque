@@ -1,21 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-    <channel>
-        <title>Mon site</title>
-        <description>Ceci est un exemple de flux RSS 2.0</description>
-        <lastBuildDate>Sat, 07 Sep 2002 00:00:01 GMT</lastBuildDate>
-        <link>http://www.example.org</link>
-        <item>
-            <title>Actualité N°1</title>
-            <description>Ceci est ma première actualité</description>
-            <pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
-            <link>http://www.example.org/actu1</link>
-        </item>
-        <item>
-            <title>Actualité N°2</title>
-            <description>Ceci est ma seconde actualité</description>
-            <pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
-            <link>http://www.example.org/actu2</link>
-        </item>
-    </channel>
-</rss>
+
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Batiactu </title>
+<description>Batiactu, toute l'information des professionnels 
+        de la construction, l'actualité en continu, la newsletter quotidienne 
+        gratuite, les dossiers, l'annuaire de la construction (référencement gratuit 
+        possible), les appels d'offre, les nouveaux produits, les solutions techniques, 
+        les tableaux de bords.</description><!-- calss.rss /cap_batiactu/scripts/robot.php?type=auto--><copyright>Droits de reproduction et de diffusion réservés à batiactu</copyright>
+<link>http://www.batiactu.com</link>
+<language>fr</language>
+<lastBuildDate>Mon, 31 Jan 2022 11:37:02 +0100</lastBuildDate>
+<pubDate>Mon, 31 Jan 2022 11:37:02 +0100</pubDate>
+<docs>https://www.batiactu.com/flux-rss.php</docs>
+<image>
+<url>http://www.batiactu.com/images/batiactu.com.gif</url>
+<title>Batiactu </title>
+<link>http://www.batiactu.com</link>
+</image>
+<atom:link href="https://www.batiactu.com/rss/batiactu.rss" rel="self" type="application/rss+xml" /><item>
+<title>Des ventes en hausse de 22% pour Caterpillar en 2021</title>
+<description>RESULTATS. Le spécialiste des engins de chantier, Caterpillar, affiche des résultats en hausse pour l'année 2021. De bons résultats portés notamment par une forte demande des utilisateurs finaux. </description>
+<enclosure url="https://www.batiactu.com/images/grand/20120417_152956_img0602.jpg" length="10449" type="image/jpeg" />
+<link>https://www.batiactu.com/edito/ventes-hausse-22-caterpillar-2021-63445.php</link>
+<guid isPermaLink="true">https://www.batiactu.com/edito/ventes-hausse-22-caterpillar-2021-63445.php</guid>
+<pubDate>Fri, 28 Jan 2022 18:03:52 +0100</pubDate>
+</item>
+<item>
+<title>Les créations et radiations d'auto-entrepreneurs en hausse dans le BTP en 2021</title>
+<description>&lt;b&gt;ENTREPRENEURIAT.&lt;/b&gt; Le nombre d'auto-entrepreneurs a fortement augmenté dans tous les secteurs de l'économie française à la moitié de l'exercice 2021, de même que la part de chefs d'entreprises déclarant un chiffre d'affaires positif. Cette tendance se retrouve à l'échelle du BTP, où le nombre de radiations a toutefois lui aussi progressé.</description>
+<enclosure url="https://www.batiactu.com/images/grand/20201117_170915_illustration-administration-ordinateur.jpg" length="8212" type="image/jpeg" />
+<link>https://www.batiactu.com/edito/creations-et-radiations-auto-entrepreneurs-hausse-dans-63443.php</link>
+<guid isPermaLink="true">https://www.batiactu.com/edito/creations-et-radiations-auto-entrepreneurs-hausse-dans-63443.php</guid>
+<pubDate>Fri, 28 Jan 2022 17:47:13 +0100</pubDate>
+</item>
+</channel></rss>
